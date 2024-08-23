@@ -9,4 +9,4 @@ Hi there! I'm **Chaeul Bang**, focused on backend development.
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/6db656a0-a7a2-4c6e-befa-ecfe8219e1a0" alt="orae_sara" width="500"/>
+<img src="https://github.com/user-attachments/assets/9001e7b6-d0ca-43ae-95f9-91a174424950" alt="orae_sara" width="500"/>
